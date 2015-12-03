@@ -32,3 +32,14 @@
 * iterm2
 * git
 * netease cloud music (for better coding)
+
+## 正在做的东西们
+
+* 好近h5页面
+  * 入口页在 [m.haojin.in](http://m.haojin.in)
+  * 也可以通过好近客户端将页面分享至微信等平台后打开
+* 好近商户版 webview页面
+  * 入口页在 [wx.qfpay.com/near](http://wx.qfpay.com/near/)
+  * 商户版开通账号 找 *艳春* 或者 *原园*
+* 好近官网
+  * [haojin.in](http://haojin.in)

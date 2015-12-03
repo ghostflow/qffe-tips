@@ -13,7 +13,8 @@
   * 账号自行注册，找 *钟林* 拉进各相关项目
 * 代码托管
   * 使用[gitlab](http://git.qfpay.net/)作为代码托管工具
-  * 发邮件给 *钟林*开通账号	
+  * 账号自行注册， 然后找 *钟林* 拉进相关项目	
+  * gitlab是在公司内网使用，公司以外的地点登陆需要找 *孙红* 同学开通openvpn账号
 
 ## 你可能需要的一些前端工具
 	
@@ -29,4 +30,5 @@
 * charles
 * sketch
 * iterm2
+* git
 * netease cloud music (for better coding)

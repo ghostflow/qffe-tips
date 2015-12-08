@@ -3,7 +3,7 @@
 ## 以下为公司各部门用到的协同开发工具
 
 * 测试
-  * 使用[禅道](http://baike.baidu.com/link?url=5xd07zrDdH43rbcdjf9b0HZYWl2_zprTielWL0SGALvJhU3r28yn2NdhAaBWeVqCc5Cfco4gMQkZDiu5HtSKV_)作为测试管理工具,测试提交到[这里]((http://172.100.101.173/zentaopms/www/index.php))
+  * 使用[禅道](http://baike.baidu.com/link?url=5xd07zrDdH43rbcdjf9b0HZYWl2_zprTielWL0SGALvJhU3r28yn2NdhAaBWeVqCc5Cfco4gMQkZDiu5HtSKV_)作为测试管理工具,测试提交到[这里](http://172.100.101.173/zentaopms/www/index.php)
   * 开通账号找 *艳春* 同学
 * 设计
   * 设计同学会把完成后的设计稿托管在[designborad.cc](http://designboard.cc/)上
@@ -20,7 +20,7 @@
 	
 * chrome插件
   * editThisCookie (查看修改设置cookie)
-  * color picker （获取页面中rgb值）
+  * colorZilla （获取页面中rgb值）
   * modify headers （修改request header）
   * allow-control-allow-origin: * （修改response header）
 * **sass**/less/postcss
@@ -43,3 +43,5 @@
   * 商户版开通账号 找 *艳春* 或者 *原园*
 * 好近官网
   * [haojin.in](http://haojin.in)
+* [钱方官网](http://git.qfpay.net/fe/qfpay-site/tree/master)
+* [好近管理后台](http://git.qfpay.net/fe/near-manage-back-end)
